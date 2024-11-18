@@ -42,6 +42,10 @@
 
 ## 主要步骤
 
+依据官方的教程，按步骤来即可。
+
+> [训练数据集导出模型到 Grove Vision AI V2](https://wiki.seeedstudio.com/grove_vision_ai_v2_sscma/#training-dataset-exported-model)
+
 1. **标注数据集**  
    - 使用 [Roboflow 平台](https://universe.roboflow.com/ds-lxa2d/apples-daz2v) 或自行标注图片数据集。  
 
